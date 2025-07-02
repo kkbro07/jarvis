@@ -1,0 +1,43 @@
+Here is a sample application for counselor leave:
+
+**Application for Counselor Leave**
+
+To,
+[Name of Supervisor/Head of Department]
+[School/Organization Name]
+[Date]
+
+Subject: Application for Counselor Leave
+
+Dear [Supervisor's Name],
+
+I am writing to request a leave of absence from my duties as a counselor at [School/Organization Name] for a period of [number] days, from [start date] to [end date]. This leave is necessary for me to attend to some personal matters that require my attention.
+
+During my absence, I have made arrangements for [Name of colleague/alternative counselor] to cover my responsibilities and ensure that the counseling services continue to run smoothly. I have briefed them on my current cases and they are aware of the protocols to follow in my absence.
+
+I will ensure that all my tasks are up to date and completed before my leave, and I will be available by email if any urgent matters arise while I am away. I will also make sure to catch up on any missed work as soon as I return.
+
+I would greatly appreciate it if you could approve my leave request. If there are any concerns or issues, please do not hesitate to reach out to me.
+
+Thank you for your understanding and support.
+
+Sincerely,
+
+[Your Name]
+Counselor
+[School/Organization Name]
+
+**Leave Details:**
+
+* Leave Type: Counselor Leave
+* Start Date: [start date]
+* End Date: [end date]
+* Number of Days: [number] days
+* Reason for Leave: [briefly mention the reason for leave]
+
+**Contact Information:**
+
+* Email: [your email]
+* Phone: [your phone number]
+
+Please note that this is just a sample application, and you should customize it to fit your specific needs and circumstances.
